@@ -1,0 +1,64 @@
+
+body {
+  /*display: flex;
+  /*justify-content: center;*/
+  background-color: #cbe3f9;
+  color: navy;
+  font-family: 'Bellefair', serif;
+}
+
+.btn-primary {
+    background-color: #4f86b5;
+    border-bottom: 2px solid #4270a2;
+    color: #ffffff;
+    margin: 10px;
+  }
+
+.post {
+  border: 2px solid pink;
+  width: 70%;
+  font-family: 'Bellefair', serif;
+  background-color: lightpink;
+}
+
+.love-icon {
+  height: 20px;
+  margin: 4px;
+  float: right;
+}
+
+.btn.btn-red {
+	background-color: #E48681;
+	border-color: rgba(0,0,0,0.3);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+	color: #FFF;
+  margin: 10px;
+}
+
+.btn.btn-red:hover {
+  background-color: #DA4F49;
+  border-color: rgba(0,0,0,0.5);
+}
+
+.btn.btn-red:active {
+  background-color: #B32C24;
+  border-color: rgba(0,0,0,0.9);
+}
+
+.btn.btn-blue{
+  background-color: #699DB6;
+  border-color: rgba(0,0,0,0.3);
+  text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+  color: #FFF;
+  margin: 10px;
+}
+
+.btn.btn-blue:hover {
+  background-color: #4F87A2;
+  border-color: rgba(0,0,0,0.5);
+}
+
+.btn.btn-blue:active {
+  background-color: #3C677B;
+  border-color: rgba(0,0,0,0.9);
+}
